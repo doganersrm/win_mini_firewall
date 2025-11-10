@@ -8,8 +8,7 @@ PySide6 tabanlı grafik arayüz sayesinde komut satırı kullanmadan ağ kuralla
 
 ---
 
-
-![Uploading WhatsApp Görsel 2025-11-10 saat 13.18.53_0898d081.jpg…]()
+<img width="1287" height="603" alt="image" src="https://github.com/user-attachments/assets/16384646-dedc-41b5-9d9a-a23cb37a42dc" />
 
 
 ## Özellikler
